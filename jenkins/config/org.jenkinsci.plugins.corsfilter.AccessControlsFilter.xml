@@ -1,0 +1,9 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<org.jenkinsci.plugins.corsfilter.AccessControlsFilter_-DescriptorImpl plugin="cors-filter@1.1">
+  <enabled>true</enabled>
+  <allowedOrigins>*</allowedOrigins>
+  <allowedMethods>GET</allowedMethods>
+  <allowedHeaders></allowedHeaders>
+  <exposedHeaders></exposedHeaders>
+  <maxAge></maxAge>
+</org.jenkinsci.plugins.corsfilter.AccessControlsFilter_-DescriptorImpl>

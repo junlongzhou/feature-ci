@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<log>
+  <name>gearman</name>
+  <targets>
+    <target>
+      <name>org.gearman.session.logger</name>
+      <level>-2147483648</level>
+    </target>
+  </targets>
+</log>

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<log>
+  <name>kubernetes</name>
+  <targets>
+    <target>
+      <name>org.csanchez.jenkins.plugins.kubernetes</name>
+      <level>-2147483648</level>
+    </target>
+  </targets>
+</log>

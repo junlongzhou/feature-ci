@@ -1,0 +1,10 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<log>
+  <name>gerrit</name>
+  <loggers>
+    <target>
+      <name>com.sonyericsson.hudson.plugins.gerrit.trigger</name>
+      <level>-2147483648</level>
+    </target>
+  </loggers>
+</log>
